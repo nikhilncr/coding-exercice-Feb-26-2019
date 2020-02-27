@@ -1,0 +1,178 @@
+[
+  {
+    "lotNumber": 500672,
+    "country": "DEU",
+    "purchasePrice": 10000,
+    "salePrice": 11000,
+    "party": [
+      {
+        "type": "SLR",
+        "id": 101
+      },
+      {
+        "type": "MBR",
+        "id": 800
+      }
+    ]
+  },
+  {
+    "lotNumber": 500673,
+    "country": "DEU",
+    "purchasePrice": 15000,
+    "salePrice": 17000,
+    "party": [
+      {
+        "type": "SLR",
+        "id": 101
+      },
+      {
+        "type": "MBR",
+        "id": 701
+      }
+    ]
+  },
+  {
+    "lotNumber": 500670,
+    "country": "DEU",
+    "purchasePrice": 7000,
+    "salePrice": 7000,
+    "party": [
+      {
+        "type": "SLR",
+        "id": 101
+      },
+      {
+        "type": "MBR",
+        "id": 701
+      }
+    ]
+  },
+  {
+    "lotNumber": 500675,
+    "country": "DEU",
+    "purchasePrice": 0,
+    "salePrice": 100000,
+    "party": [
+      {
+        "type": "SLR",
+        "id": 1086
+      },
+      {
+        "type": "MBR",
+        "id": 702
+      }
+    ]
+  },
+  {
+    "lotNumber": 500676,
+    "country": "DEU",
+    "purchasePrice": 12000,
+    "salePrice": 14000,
+    "party": [
+      {
+        "type": "SLR",
+        "id": 102
+      },
+      {
+        "type": "MBR",
+        "id": 703
+      }
+    ]
+  },
+  {
+    "lotNumber": 500677,
+    "country": "DEU",
+    "purchasePrice": 8999,
+    "salePrice": 10000,
+    "party": [
+      {
+        "type": "SLR",
+        "id": 105
+      },
+      {
+        "type": "MBR",
+        "id": 703
+      }
+    ]
+  },
+  {
+    "lotNumber": 500678,
+    "country": "DEU",
+    "purchasePrice": 25000,
+    "salePrice": 25001,
+    "party": [
+      {
+        "type": "SLR",
+        "id": 102
+      },
+      {
+        "type": "MBR",
+        "id": 703
+      }
+    ]
+  },
+  {
+    "lotNumber": 500678,
+    "country": "DEU",
+    "purchasePrice": 12000,
+    "salePrice": 12000.5,
+    "party": [
+      {
+        "type": "SLR",
+        "id": 102
+      },
+      {
+        "type": "MBR",
+        "id": 703
+      }
+    ]
+  },
+  {
+    "lotNumber": 500678,
+    "country": "DEU",
+    "purchasePrice": 12000,
+    "salePrice": 15000,
+    "party": [
+      {
+        "type": "SLR",
+        "id": 101
+      },
+      {
+        "type": "MBR",
+        "id": 703
+      }
+    ]
+  },
+  {
+    "lotNumber": 500678,
+    "country": "DEU",
+    "purchasePrice": 12000,
+    "salePrice": 15000,
+    "party": [
+      {
+        "type": "SLR",
+        "id": 105
+      },
+      {
+        "type": "MBR",
+        "id": 703
+      }
+    ]
+  },
+  {
+    "lotNumber": 500678,
+    "country": "DEU",
+    "purchasePrice": 12000,
+    "salePrice": 15000,
+    "party": [
+      {
+        "type": "SLR",
+        "id": 104
+      },
+      {
+        "type": "MBR",
+        "id": 703
+      }
+    ]
+  }
+]
