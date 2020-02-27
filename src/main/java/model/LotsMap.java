@@ -6,7 +6,7 @@ import java.util.stream.Collectors;
 /*
 This Data Structure was discussed.
 However, a better DS was deemed to be feasible for the use-case that we discussed keeping JSON serialization under consideration.
-See LotSet.java which is currently being used
+See LotsSet.java which is currently being used
  */
 public class LotsMap extends HashMap<Long, Lot> {
 
